@@ -1,18 +1,7 @@
 
-#include <stdio.h>
+    printf("Bienvenue depuis feature-message\n");
 
-int produit(int a, int b) {
-    return a * b;
-}
 
-double moyenne(int a, int b) {
-    return (a + b) / 2.0;
-}
 
-int main(void) {
-    printf("Bienvenue depuis main\n");
-    printf("Produit = %d\n", produit(3, 4));
-    return 0;
-}
 
 
