@@ -10,7 +10,7 @@ double moyenne(int a, int b) {
 }
 
 int main(void) {
-    printf("Projet collaboratif\n");
+    printf("Bienvenue depuis feature-message\n");
     printf("Produit = %d\n", produit(3, 4));
     return 0;
 }
